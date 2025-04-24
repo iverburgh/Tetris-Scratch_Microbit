@@ -60,7 +60,7 @@ Let op! Dit block staat ergens rechtsboven, goed zoeken!
 </details>
 
 
-##  (stap3)
+## Toon aantal punten (stap3)
 **doel:** Toon aantal punten op micro:bit
 **wat moet je doen?** Toon de score op het scherm van de micro:bit als de score verhoogd wordt
 
